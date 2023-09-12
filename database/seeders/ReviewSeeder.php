@@ -14,5 +14,6 @@ class ReviewSeeder extends Seeder
     public function run()
     {
         //
+       $this->call(ReviewSeeder::class);
     }
 }
