@@ -35,7 +35,7 @@ We need to ensure that the E-commerce API community is welcoming to all, please 
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Johnbosco Nnamso via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within API, please send an e-mail to Johnbosco Nnamso via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
