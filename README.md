@@ -23,7 +23,7 @@ Laravel is web application framework with expressive, elegant syntax. We believe
 
 ## E-commerce API Sponsors
 
-We would like to extend our thanks to the following sponsors for funding E-commerce API development. If you are interested in becoming a sponsor, please contact Johnbosco via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com)].
+We would like to extend our thanks to the sponsors for funding E-commerce API development. If you are interested in becoming a sponsor, please contact Johnbosco via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com)].
 
 ## Contributing
 
