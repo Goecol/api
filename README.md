@@ -21,7 +21,7 @@ Laravel is web application framework with expressive, elegant syntax. We believe
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-## Laravel Sponsors
+## E-commerce API Sponsors
 
 We would like to extend our thanks to the following sponsors for funding E-commerce API development. If you are interested in becoming a sponsor, please contact Johnbosco via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com)].
 
