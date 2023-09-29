@@ -9,7 +9,7 @@
 
 ## About E-commerce API
 
-This is an API for an E-commerce Application.This API is built with laravel web application framework.
+This is an API for an E-commerce Application. This API is built with laravel web application framework.
 
 Laravel web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
