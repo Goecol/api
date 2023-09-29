@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 use App\Http\Requests\ProductRequest;
 use App\Models\Model\Product;
 //use App\Http\Requests\StoreProductRequest;
-use App\Http\Requests\UpdateProductRequest;
+//use App\Http\Requests\UpdateProductRequest;
 use App\Http\Resources\Product\ProductResource;
 use App\Http\Resources\Product\ProductCollection;
 use Illuminate\Http\Request;
@@ -100,9 +100,16 @@ class ProductController extends Controller
      * @param  \App\Models\Model\Product  $product
      * @return \Illuminate\Http\Response
      */
-    public function update(UpdateProductRequest $request, Product $product)
+    public function update(Request $request, Product $product)
     {
         //
+        //return $request->all();
+        $request['detail'] = $request->description;
+        unset($request['description']);
+        $product->update($request->all());
+        return response([
+            'data' => new ProductResource($product)
+        ], Response::HTTP_CREATED);
     }
 
     /**
