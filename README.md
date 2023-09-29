@@ -23,7 +23,7 @@ Laravel is web application framework with expressive, elegant syntax. We believe
 
 ## E-commerce API Sponsors
 
-We would like to extend our thanks to the sponsors for funding E-commerce API development. If you are interested in becoming a sponsor, please contact Johnbosco via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com)].
+We would like to extend our thanks to the sponsors for funding the E-commerce API development. If you are interested in becoming a sponsor, please contact Johnbosco via [goecol.gopage@gmail.com](mailto:goecol.gopage@gmail.com)].
 
 ## Contributing
 
@@ -31,12 +31,12 @@ Thank you for considering contributing to the E-commerce API!.
 
 ## Code of Conduct
 
-We need to ensure that the E-commerce API community is welcoming to all, please abide by the our code of conduct.
+We need to ensure that the E-commerce API community is welcoming to all, please abide by the code of conduct.
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within API, please send an e-mail to Johnbosco Nnamso via [goecol.gopage@.com](mailto:goecol.gopage@gmail.com.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within API, please send an e-mail to Johnbosco Nnamso via [goecol.gopage@gmail.com](mailto:goecol.gopage@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-This E-commerce API is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The E-commerce API is an open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
