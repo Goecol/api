@@ -4,6 +4,9 @@ namespace App\Exceptions;
 
 use App\Exceptions\ExceptionTrait;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use App\Exceptions\ProductNotBelongsToUser;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use Throwable;
 
 
@@ -45,20 +48,22 @@ class Handler extends ExceptionHandler
             
         });
 
+
         $this->renderable(function (Throwable $e, $request) {
-            
+          
           //dd($e);
           return $this->handleException($e, $request);
         });
 
     }
+       
+       
 
     public function handleException(Throwable $e, $request)
     {
        if($request->expectsJson()){
           return $this->apiException($request, $e);
-        }
-        
+        }      
     }
 }
 
